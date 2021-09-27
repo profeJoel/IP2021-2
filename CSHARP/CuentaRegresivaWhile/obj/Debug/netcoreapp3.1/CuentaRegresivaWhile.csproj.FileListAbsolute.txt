@@ -1,0 +1,13 @@
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaWhile\bin\Debug\netcoreapp3.1\CuentaRegresivaWhile.exe
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaWhile\bin\Debug\netcoreapp3.1\CuentaRegresivaWhile.deps.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaWhile\bin\Debug\netcoreapp3.1\CuentaRegresivaWhile.runtimeconfig.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaWhile\bin\Debug\netcoreapp3.1\CuentaRegresivaWhile.runtimeconfig.dev.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaWhile\bin\Debug\netcoreapp3.1\CuentaRegresivaWhile.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaWhile\bin\Debug\netcoreapp3.1\CuentaRegresivaWhile.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaWhile\obj\Debug\netcoreapp3.1\CuentaRegresivaWhile.csprojAssemblyReference.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaWhile\obj\Debug\netcoreapp3.1\CuentaRegresivaWhile.AssemblyInfoInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaWhile\obj\Debug\netcoreapp3.1\CuentaRegresivaWhile.AssemblyInfo.cs
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaWhile\obj\Debug\netcoreapp3.1\CuentaRegresivaWhile.csproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaWhile\obj\Debug\netcoreapp3.1\CuentaRegresivaWhile.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaWhile\obj\Debug\netcoreapp3.1\CuentaRegresivaWhile.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaWhile\obj\Debug\netcoreapp3.1\CuentaRegresivaWhile.genruntimeconfig.cache

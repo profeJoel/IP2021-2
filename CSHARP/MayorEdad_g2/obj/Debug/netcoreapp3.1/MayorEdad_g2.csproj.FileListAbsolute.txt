@@ -1,0 +1,13 @@
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\MayorEdad_g2\bin\Debug\netcoreapp3.1\MayorEdad_g2.exe
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\MayorEdad_g2\bin\Debug\netcoreapp3.1\MayorEdad_g2.deps.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\MayorEdad_g2\bin\Debug\netcoreapp3.1\MayorEdad_g2.runtimeconfig.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\MayorEdad_g2\bin\Debug\netcoreapp3.1\MayorEdad_g2.runtimeconfig.dev.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\MayorEdad_g2\bin\Debug\netcoreapp3.1\MayorEdad_g2.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\MayorEdad_g2\bin\Debug\netcoreapp3.1\MayorEdad_g2.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\MayorEdad_g2\obj\Debug\netcoreapp3.1\MayorEdad_g2.csprojAssemblyReference.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\MayorEdad_g2\obj\Debug\netcoreapp3.1\MayorEdad_g2.AssemblyInfoInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\MayorEdad_g2\obj\Debug\netcoreapp3.1\MayorEdad_g2.AssemblyInfo.cs
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\MayorEdad_g2\obj\Debug\netcoreapp3.1\MayorEdad_g2.csproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\MayorEdad_g2\obj\Debug\netcoreapp3.1\MayorEdad_g2.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\MayorEdad_g2\obj\Debug\netcoreapp3.1\MayorEdad_g2.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\MayorEdad_g2\obj\Debug\netcoreapp3.1\MayorEdad_g2.genruntimeconfig.cache

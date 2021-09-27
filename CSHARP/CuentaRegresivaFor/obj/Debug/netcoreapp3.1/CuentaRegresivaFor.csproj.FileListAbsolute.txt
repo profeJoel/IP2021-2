@@ -1,0 +1,13 @@
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaFor\bin\Debug\netcoreapp3.1\CuentaRegresivaFor.exe
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaFor\bin\Debug\netcoreapp3.1\CuentaRegresivaFor.deps.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaFor\bin\Debug\netcoreapp3.1\CuentaRegresivaFor.runtimeconfig.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaFor\bin\Debug\netcoreapp3.1\CuentaRegresivaFor.runtimeconfig.dev.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaFor\bin\Debug\netcoreapp3.1\CuentaRegresivaFor.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaFor\bin\Debug\netcoreapp3.1\CuentaRegresivaFor.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaFor\obj\Debug\netcoreapp3.1\CuentaRegresivaFor.csprojAssemblyReference.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaFor\obj\Debug\netcoreapp3.1\CuentaRegresivaFor.AssemblyInfoInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaFor\obj\Debug\netcoreapp3.1\CuentaRegresivaFor.AssemblyInfo.cs
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaFor\obj\Debug\netcoreapp3.1\CuentaRegresivaFor.csproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaFor\obj\Debug\netcoreapp3.1\CuentaRegresivaFor.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaFor\obj\Debug\netcoreapp3.1\CuentaRegresivaFor.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\CuentaRegresivaFor\obj\Debug\netcoreapp3.1\CuentaRegresivaFor.genruntimeconfig.cache
