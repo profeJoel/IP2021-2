@@ -1,0 +1,13 @@
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\PerimetroAreaCirculo\obj\Debug\netcoreapp3.1\PerimetroAreaCirculo.csprojAssemblyReference.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\PerimetroAreaCirculo\obj\Debug\netcoreapp3.1\PerimetroAreaCirculo.AssemblyInfoInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\PerimetroAreaCirculo\obj\Debug\netcoreapp3.1\PerimetroAreaCirculo.AssemblyInfo.cs
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\PerimetroAreaCirculo\obj\Debug\netcoreapp3.1\PerimetroAreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\PerimetroAreaCirculo\bin\Debug\netcoreapp3.1\PerimetroAreaCirculo.exe
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\PerimetroAreaCirculo\bin\Debug\netcoreapp3.1\PerimetroAreaCirculo.deps.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\PerimetroAreaCirculo\bin\Debug\netcoreapp3.1\PerimetroAreaCirculo.runtimeconfig.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\PerimetroAreaCirculo\bin\Debug\netcoreapp3.1\PerimetroAreaCirculo.runtimeconfig.dev.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\PerimetroAreaCirculo\bin\Debug\netcoreapp3.1\PerimetroAreaCirculo.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\PerimetroAreaCirculo\bin\Debug\netcoreapp3.1\PerimetroAreaCirculo.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\PerimetroAreaCirculo\obj\Debug\netcoreapp3.1\PerimetroAreaCirculo.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\PerimetroAreaCirculo\obj\Debug\netcoreapp3.1\PerimetroAreaCirculo.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\PerimetroAreaCirculo\obj\Debug\netcoreapp3.1\PerimetroAreaCirculo.genruntimeconfig.cache
