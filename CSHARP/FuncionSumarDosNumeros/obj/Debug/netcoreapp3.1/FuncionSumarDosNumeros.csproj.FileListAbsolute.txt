@@ -1,0 +1,13 @@
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionSumarDosNumeros\bin\Debug\netcoreapp3.1\FuncionSumarDosNumeros.exe
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionSumarDosNumeros\bin\Debug\netcoreapp3.1\FuncionSumarDosNumeros.deps.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionSumarDosNumeros\bin\Debug\netcoreapp3.1\FuncionSumarDosNumeros.runtimeconfig.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionSumarDosNumeros\bin\Debug\netcoreapp3.1\FuncionSumarDosNumeros.runtimeconfig.dev.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionSumarDosNumeros\bin\Debug\netcoreapp3.1\FuncionSumarDosNumeros.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionSumarDosNumeros\bin\Debug\netcoreapp3.1\FuncionSumarDosNumeros.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionSumarDosNumeros\obj\Debug\netcoreapp3.1\FuncionSumarDosNumeros.csprojAssemblyReference.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionSumarDosNumeros\obj\Debug\netcoreapp3.1\FuncionSumarDosNumeros.AssemblyInfoInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionSumarDosNumeros\obj\Debug\netcoreapp3.1\FuncionSumarDosNumeros.AssemblyInfo.cs
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionSumarDosNumeros\obj\Debug\netcoreapp3.1\FuncionSumarDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionSumarDosNumeros\obj\Debug\netcoreapp3.1\FuncionSumarDosNumeros.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionSumarDosNumeros\obj\Debug\netcoreapp3.1\FuncionSumarDosNumeros.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionSumarDosNumeros\obj\Debug\netcoreapp3.1\FuncionSumarDosNumeros.genruntimeconfig.cache

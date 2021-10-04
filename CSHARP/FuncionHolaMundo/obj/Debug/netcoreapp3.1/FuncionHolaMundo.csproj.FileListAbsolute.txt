@@ -1,0 +1,13 @@
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionHolaMundo\bin\Debug\netcoreapp3.1\FuncionHolaMundo.exe
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionHolaMundo\bin\Debug\netcoreapp3.1\FuncionHolaMundo.deps.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionHolaMundo\bin\Debug\netcoreapp3.1\FuncionHolaMundo.runtimeconfig.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionHolaMundo\bin\Debug\netcoreapp3.1\FuncionHolaMundo.runtimeconfig.dev.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionHolaMundo\bin\Debug\netcoreapp3.1\FuncionHolaMundo.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionHolaMundo\bin\Debug\netcoreapp3.1\FuncionHolaMundo.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionHolaMundo\obj\Debug\netcoreapp3.1\FuncionHolaMundo.csprojAssemblyReference.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionHolaMundo\obj\Debug\netcoreapp3.1\FuncionHolaMundo.AssemblyInfoInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionHolaMundo\obj\Debug\netcoreapp3.1\FuncionHolaMundo.AssemblyInfo.cs
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionHolaMundo\obj\Debug\netcoreapp3.1\FuncionHolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionHolaMundo\obj\Debug\netcoreapp3.1\FuncionHolaMundo.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionHolaMundo\obj\Debug\netcoreapp3.1\FuncionHolaMundo.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionHolaMundo\obj\Debug\netcoreapp3.1\FuncionHolaMundo.genruntimeconfig.cache
