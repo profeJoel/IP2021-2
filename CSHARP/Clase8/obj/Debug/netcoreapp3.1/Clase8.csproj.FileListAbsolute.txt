@@ -1,0 +1,13 @@
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\Clase8\bin\Debug\netcoreapp3.1\Clase8.exe
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\Clase8\bin\Debug\netcoreapp3.1\Clase8.deps.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\Clase8\bin\Debug\netcoreapp3.1\Clase8.runtimeconfig.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\Clase8\bin\Debug\netcoreapp3.1\Clase8.runtimeconfig.dev.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\Clase8\bin\Debug\netcoreapp3.1\Clase8.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\Clase8\bin\Debug\netcoreapp3.1\Clase8.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\Clase8\obj\Debug\netcoreapp3.1\Clase8.csprojAssemblyReference.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\Clase8\obj\Debug\netcoreapp3.1\Clase8.AssemblyInfoInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\Clase8\obj\Debug\netcoreapp3.1\Clase8.AssemblyInfo.cs
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\Clase8\obj\Debug\netcoreapp3.1\Clase8.csproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\Clase8\obj\Debug\netcoreapp3.1\Clase8.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\Clase8\obj\Debug\netcoreapp3.1\Clase8.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\Clase8\obj\Debug\netcoreapp3.1\Clase8.genruntimeconfig.cache
