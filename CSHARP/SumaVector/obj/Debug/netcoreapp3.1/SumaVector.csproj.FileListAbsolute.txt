@@ -1,0 +1,13 @@
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\SumaVector\bin\Debug\netcoreapp3.1\SumaVector.exe
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\SumaVector\bin\Debug\netcoreapp3.1\SumaVector.deps.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\SumaVector\bin\Debug\netcoreapp3.1\SumaVector.runtimeconfig.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\SumaVector\bin\Debug\netcoreapp3.1\SumaVector.runtimeconfig.dev.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\SumaVector\bin\Debug\netcoreapp3.1\SumaVector.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\SumaVector\bin\Debug\netcoreapp3.1\SumaVector.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\SumaVector\obj\Debug\netcoreapp3.1\SumaVector.csprojAssemblyReference.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\SumaVector\obj\Debug\netcoreapp3.1\SumaVector.AssemblyInfoInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\SumaVector\obj\Debug\netcoreapp3.1\SumaVector.AssemblyInfo.cs
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\SumaVector\obj\Debug\netcoreapp3.1\SumaVector.csproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\SumaVector\obj\Debug\netcoreapp3.1\SumaVector.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\SumaVector\obj\Debug\netcoreapp3.1\SumaVector.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\SumaVector\obj\Debug\netcoreapp3.1\SumaVector.genruntimeconfig.cache
