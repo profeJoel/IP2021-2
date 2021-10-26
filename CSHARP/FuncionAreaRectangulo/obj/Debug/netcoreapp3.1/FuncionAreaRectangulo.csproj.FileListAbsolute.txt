@@ -1,0 +1,13 @@
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAreaRectangulo\obj\Debug\netcoreapp3.1\FuncionAreaRectangulo.csprojAssemblyReference.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAreaRectangulo\obj\Debug\netcoreapp3.1\FuncionAreaRectangulo.AssemblyInfoInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAreaRectangulo\obj\Debug\netcoreapp3.1\FuncionAreaRectangulo.AssemblyInfo.cs
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAreaRectangulo\obj\Debug\netcoreapp3.1\FuncionAreaRectangulo.csproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAreaRectangulo\bin\Debug\netcoreapp3.1\FuncionAreaRectangulo.exe
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAreaRectangulo\bin\Debug\netcoreapp3.1\FuncionAreaRectangulo.deps.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAreaRectangulo\bin\Debug\netcoreapp3.1\FuncionAreaRectangulo.runtimeconfig.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAreaRectangulo\bin\Debug\netcoreapp3.1\FuncionAreaRectangulo.runtimeconfig.dev.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAreaRectangulo\bin\Debug\netcoreapp3.1\FuncionAreaRectangulo.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAreaRectangulo\bin\Debug\netcoreapp3.1\FuncionAreaRectangulo.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAreaRectangulo\obj\Debug\netcoreapp3.1\FuncionAreaRectangulo.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAreaRectangulo\obj\Debug\netcoreapp3.1\FuncionAreaRectangulo.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAreaRectangulo\obj\Debug\netcoreapp3.1\FuncionAreaRectangulo.genruntimeconfig.cache

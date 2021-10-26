@@ -1,0 +1,13 @@
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAnguloTriangulo\obj\Debug\netcoreapp3.1\FuncionAnguloTriangulo.csprojAssemblyReference.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAnguloTriangulo\obj\Debug\netcoreapp3.1\FuncionAnguloTriangulo.AssemblyInfoInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAnguloTriangulo\obj\Debug\netcoreapp3.1\FuncionAnguloTriangulo.AssemblyInfo.cs
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAnguloTriangulo\obj\Debug\netcoreapp3.1\FuncionAnguloTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAnguloTriangulo\bin\Debug\netcoreapp3.1\FuncionAnguloTriangulo.exe
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAnguloTriangulo\bin\Debug\netcoreapp3.1\FuncionAnguloTriangulo.deps.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAnguloTriangulo\bin\Debug\netcoreapp3.1\FuncionAnguloTriangulo.runtimeconfig.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAnguloTriangulo\bin\Debug\netcoreapp3.1\FuncionAnguloTriangulo.runtimeconfig.dev.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAnguloTriangulo\bin\Debug\netcoreapp3.1\FuncionAnguloTriangulo.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAnguloTriangulo\bin\Debug\netcoreapp3.1\FuncionAnguloTriangulo.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAnguloTriangulo\obj\Debug\netcoreapp3.1\FuncionAnguloTriangulo.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAnguloTriangulo\obj\Debug\netcoreapp3.1\FuncionAnguloTriangulo.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionAnguloTriangulo\obj\Debug\netcoreapp3.1\FuncionAnguloTriangulo.genruntimeconfig.cache
