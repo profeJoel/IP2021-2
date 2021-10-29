@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FuncionAnguloTrianguloG2/1.0.0": {
+        "runtime": {
+          "FuncionAnguloTrianguloG2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FuncionAnguloTrianguloG2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionNumeroPositivo\obj\Debug\netcoreapp3.1\FuncionNumeroPositivo.csprojAssemblyReference.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionNumeroPositivo\obj\Debug\netcoreapp3.1\FuncionNumeroPositivo.AssemblyInfoInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionNumeroPositivo\obj\Debug\netcoreapp3.1\FuncionNumeroPositivo.AssemblyInfo.cs
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionNumeroPositivo\obj\Debug\netcoreapp3.1\FuncionNumeroPositivo.csproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionNumeroPositivo\bin\Debug\netcoreapp3.1\FuncionNumeroPositivo.exe
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionNumeroPositivo\bin\Debug\netcoreapp3.1\FuncionNumeroPositivo.deps.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionNumeroPositivo\bin\Debug\netcoreapp3.1\FuncionNumeroPositivo.runtimeconfig.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionNumeroPositivo\bin\Debug\netcoreapp3.1\FuncionNumeroPositivo.runtimeconfig.dev.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionNumeroPositivo\bin\Debug\netcoreapp3.1\FuncionNumeroPositivo.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionNumeroPositivo\bin\Debug\netcoreapp3.1\FuncionNumeroPositivo.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionNumeroPositivo\obj\Debug\netcoreapp3.1\FuncionNumeroPositivo.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionNumeroPositivo\obj\Debug\netcoreapp3.1\FuncionNumeroPositivo.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\FuncionNumeroPositivo\obj\Debug\netcoreapp3.1\FuncionNumeroPositivo.genruntimeconfig.cache
