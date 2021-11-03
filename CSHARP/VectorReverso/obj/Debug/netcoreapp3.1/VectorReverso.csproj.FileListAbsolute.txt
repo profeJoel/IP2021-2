@@ -1,0 +1,13 @@
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\VectorReverso\bin\Debug\netcoreapp3.1\VectorReverso.exe
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\VectorReverso\bin\Debug\netcoreapp3.1\VectorReverso.deps.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\VectorReverso\bin\Debug\netcoreapp3.1\VectorReverso.runtimeconfig.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\VectorReverso\bin\Debug\netcoreapp3.1\VectorReverso.runtimeconfig.dev.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\VectorReverso\bin\Debug\netcoreapp3.1\VectorReverso.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\VectorReverso\bin\Debug\netcoreapp3.1\VectorReverso.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\VectorReverso\obj\Debug\netcoreapp3.1\VectorReverso.csprojAssemblyReference.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\VectorReverso\obj\Debug\netcoreapp3.1\VectorReverso.AssemblyInfoInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\VectorReverso\obj\Debug\netcoreapp3.1\VectorReverso.AssemblyInfo.cs
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\VectorReverso\obj\Debug\netcoreapp3.1\VectorReverso.csproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\VectorReverso\obj\Debug\netcoreapp3.1\VectorReverso.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\VectorReverso\obj\Debug\netcoreapp3.1\VectorReverso.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\VectorReverso\obj\Debug\netcoreapp3.1\VectorReverso.genruntimeconfig.cache

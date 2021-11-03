@@ -30,7 +30,10 @@ namespace Ejercicio1
                 impuestoTotal += impuestoIVA;
                 montoBrutoTotal += montoNeto + impuestoIVA;
 
-                Console.WriteLine("Quiere ingresar otro precio de producto\n - Ingrese 1 para ingresar nuevo producto\n - Ingrese 0 para salir");
+                //Console.WriteLine("Quiere ingresar otro precio de producto\n - Ingrese 1 para ingresar nuevo producto\n - Ingrese 0 para salir");
+                Console.WriteLine("Quiere ingresar otro precio de producto");
+                Console.WriteLine(" - Ingrese 1 para ingresar nuevo producto");
+                Console.WriteLine(" - Ingrese 0 para salir");
                 opcion = Convert.ToInt32(Console.ReadLine());
             }
 

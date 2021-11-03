@@ -13,9 +13,10 @@ if __name__ == "__main__":
     primeraVezPlanta2 = True
     primeraVezPlanta3 = True
 
-    print("Bienvenidos a Industrias NOLUC")
+    print("Bienvenidos a Industrias NULOC")
     
-    while not alcanza_limite(planta1) or not alcanza_limite(planta2) or not alcanza_limite(planta3):
+    # while not alcanza_limite(planta1) or not alcanza_limite(planta2) or not alcanza_limite(planta3):
+    while not alcanza_limite(planta3):
         print("Ingrese la cantidad de leche de la familia productora")
         cantidadLeche = float(input())
         while cantidadLeche <= 0:
