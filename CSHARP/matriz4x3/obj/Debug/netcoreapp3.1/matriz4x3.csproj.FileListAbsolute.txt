@@ -1,0 +1,13 @@
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\matriz4x3\obj\Debug\netcoreapp3.1\matriz4x3.csprojAssemblyReference.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\matriz4x3\obj\Debug\netcoreapp3.1\matriz4x3.AssemblyInfoInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\matriz4x3\obj\Debug\netcoreapp3.1\matriz4x3.AssemblyInfo.cs
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\matriz4x3\obj\Debug\netcoreapp3.1\matriz4x3.csproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\matriz4x3\bin\Debug\netcoreapp3.1\matriz4x3.exe
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\matriz4x3\bin\Debug\netcoreapp3.1\matriz4x3.deps.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\matriz4x3\bin\Debug\netcoreapp3.1\matriz4x3.runtimeconfig.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\matriz4x3\bin\Debug\netcoreapp3.1\matriz4x3.runtimeconfig.dev.json
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\matriz4x3\bin\Debug\netcoreapp3.1\matriz4x3.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\matriz4x3\bin\Debug\netcoreapp3.1\matriz4x3.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\matriz4x3\obj\Debug\netcoreapp3.1\matriz4x3.dll
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\matriz4x3\obj\Debug\netcoreapp3.1\matriz4x3.pdb
+C:\Users\joelm\OneDrive\Escritorio\Recursos\Otros\IP-TS 2021-2\IP2021-2\CSHARP\matriz4x3\obj\Debug\netcoreapp3.1\matriz4x3.genruntimeconfig.cache
