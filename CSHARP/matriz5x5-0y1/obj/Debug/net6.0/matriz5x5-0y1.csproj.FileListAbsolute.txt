@@ -1,0 +1,15 @@
+/Users/joel/Desktop/IP2021-2/CSHARP/matriz5x5-0y1/obj/Debug/net6.0/matriz5x5-0y1.csproj.AssemblyReference.cache
+/Users/joel/Desktop/IP2021-2/CSHARP/matriz5x5-0y1/obj/Debug/net6.0/matriz5x5-0y1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joel/Desktop/IP2021-2/CSHARP/matriz5x5-0y1/obj/Debug/net6.0/matriz5x5-0y1.AssemblyInfoInputs.cache
+/Users/joel/Desktop/IP2021-2/CSHARP/matriz5x5-0y1/obj/Debug/net6.0/matriz5x5-0y1.AssemblyInfo.cs
+/Users/joel/Desktop/IP2021-2/CSHARP/matriz5x5-0y1/obj/Debug/net6.0/matriz5x5-0y1.csproj.CoreCompileInputs.cache
+/Users/joel/Desktop/IP2021-2/CSHARP/matriz5x5-0y1/bin/Debug/net6.0/matriz5x5-0y1
+/Users/joel/Desktop/IP2021-2/CSHARP/matriz5x5-0y1/bin/Debug/net6.0/matriz5x5-0y1.deps.json
+/Users/joel/Desktop/IP2021-2/CSHARP/matriz5x5-0y1/bin/Debug/net6.0/matriz5x5-0y1.runtimeconfig.json
+/Users/joel/Desktop/IP2021-2/CSHARP/matriz5x5-0y1/bin/Debug/net6.0/matriz5x5-0y1.dll
+/Users/joel/Desktop/IP2021-2/CSHARP/matriz5x5-0y1/bin/Debug/net6.0/ref/matriz5x5-0y1.dll
+/Users/joel/Desktop/IP2021-2/CSHARP/matriz5x5-0y1/bin/Debug/net6.0/matriz5x5-0y1.pdb
+/Users/joel/Desktop/IP2021-2/CSHARP/matriz5x5-0y1/obj/Debug/net6.0/matriz5x5-0y1.dll
+/Users/joel/Desktop/IP2021-2/CSHARP/matriz5x5-0y1/obj/Debug/net6.0/ref/matriz5x5-0y1.dll
+/Users/joel/Desktop/IP2021-2/CSHARP/matriz5x5-0y1/obj/Debug/net6.0/matriz5x5-0y1.pdb
+/Users/joel/Desktop/IP2021-2/CSHARP/matriz5x5-0y1/obj/Debug/net6.0/matriz5x5-0y1.genruntimeconfig.cache

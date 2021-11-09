@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2bkLyMaBR6zqPn+jE3vN5PFJUnNWnJ5t9SCxASeN+cLcNUQS8y0W1ceNv10oz5q/RNQBp10lQbJvdLC8+UIJrA==",
+  "dgSpecHash": "jLSU08+dbRn9+lxf22T2C7pw8dLkYRTjHVO8Nx48zT/PDgTdh8IrN9DCiXU8hY73U4BiIzAZjQA8lRQ1pOuSqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joelm\\OneDrive\\Escritorio\\Recursos\\Otros\\IP-TS 2021-2\\IP2021-2\\CSHARP\\matriz4x3\\matriz4x3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/joel/Desktop/IP2021-2/CSHARP/matriz4x3/matriz4x3.csproj",
+  "expectedPackageFiles": [
+    "/Users/joel/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/joel/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/joel/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.21/microsoft.netcore.app.host.osx-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

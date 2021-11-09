@@ -1,0 +1,15 @@
+/Users/joel/Desktop/IP2021-2/CSHARP/matrix2x6_par_impar/bin/Debug/net6.0/matrix2x6_par_impar
+/Users/joel/Desktop/IP2021-2/CSHARP/matrix2x6_par_impar/bin/Debug/net6.0/matrix2x6_par_impar.deps.json
+/Users/joel/Desktop/IP2021-2/CSHARP/matrix2x6_par_impar/bin/Debug/net6.0/matrix2x6_par_impar.runtimeconfig.json
+/Users/joel/Desktop/IP2021-2/CSHARP/matrix2x6_par_impar/bin/Debug/net6.0/matrix2x6_par_impar.dll
+/Users/joel/Desktop/IP2021-2/CSHARP/matrix2x6_par_impar/bin/Debug/net6.0/ref/matrix2x6_par_impar.dll
+/Users/joel/Desktop/IP2021-2/CSHARP/matrix2x6_par_impar/bin/Debug/net6.0/matrix2x6_par_impar.pdb
+/Users/joel/Desktop/IP2021-2/CSHARP/matrix2x6_par_impar/obj/Debug/net6.0/matrix2x6_par_impar.csproj.AssemblyReference.cache
+/Users/joel/Desktop/IP2021-2/CSHARP/matrix2x6_par_impar/obj/Debug/net6.0/matrix2x6_par_impar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joel/Desktop/IP2021-2/CSHARP/matrix2x6_par_impar/obj/Debug/net6.0/matrix2x6_par_impar.AssemblyInfoInputs.cache
+/Users/joel/Desktop/IP2021-2/CSHARP/matrix2x6_par_impar/obj/Debug/net6.0/matrix2x6_par_impar.AssemblyInfo.cs
+/Users/joel/Desktop/IP2021-2/CSHARP/matrix2x6_par_impar/obj/Debug/net6.0/matrix2x6_par_impar.csproj.CoreCompileInputs.cache
+/Users/joel/Desktop/IP2021-2/CSHARP/matrix2x6_par_impar/obj/Debug/net6.0/matrix2x6_par_impar.dll
+/Users/joel/Desktop/IP2021-2/CSHARP/matrix2x6_par_impar/obj/Debug/net6.0/ref/matrix2x6_par_impar.dll
+/Users/joel/Desktop/IP2021-2/CSHARP/matrix2x6_par_impar/obj/Debug/net6.0/matrix2x6_par_impar.pdb
+/Users/joel/Desktop/IP2021-2/CSHARP/matrix2x6_par_impar/obj/Debug/net6.0/matrix2x6_par_impar.genruntimeconfig.cache
