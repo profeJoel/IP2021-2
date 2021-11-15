@@ -1,0 +1,13 @@
+D:\Respaldo Disco Malo Nov2021\Otros\IP-TS 2021-2\IP2021-2\CSHARP\ManejoArchivo\bin\Debug\netcoreapp3.1\ManejoArchivo.exe
+D:\Respaldo Disco Malo Nov2021\Otros\IP-TS 2021-2\IP2021-2\CSHARP\ManejoArchivo\bin\Debug\netcoreapp3.1\ManejoArchivo.deps.json
+D:\Respaldo Disco Malo Nov2021\Otros\IP-TS 2021-2\IP2021-2\CSHARP\ManejoArchivo\bin\Debug\netcoreapp3.1\ManejoArchivo.runtimeconfig.json
+D:\Respaldo Disco Malo Nov2021\Otros\IP-TS 2021-2\IP2021-2\CSHARP\ManejoArchivo\bin\Debug\netcoreapp3.1\ManejoArchivo.runtimeconfig.dev.json
+D:\Respaldo Disco Malo Nov2021\Otros\IP-TS 2021-2\IP2021-2\CSHARP\ManejoArchivo\bin\Debug\netcoreapp3.1\ManejoArchivo.dll
+D:\Respaldo Disco Malo Nov2021\Otros\IP-TS 2021-2\IP2021-2\CSHARP\ManejoArchivo\bin\Debug\netcoreapp3.1\ManejoArchivo.pdb
+D:\Respaldo Disco Malo Nov2021\Otros\IP-TS 2021-2\IP2021-2\CSHARP\ManejoArchivo\obj\Debug\netcoreapp3.1\ManejoArchivo.csprojAssemblyReference.cache
+D:\Respaldo Disco Malo Nov2021\Otros\IP-TS 2021-2\IP2021-2\CSHARP\ManejoArchivo\obj\Debug\netcoreapp3.1\ManejoArchivo.AssemblyInfoInputs.cache
+D:\Respaldo Disco Malo Nov2021\Otros\IP-TS 2021-2\IP2021-2\CSHARP\ManejoArchivo\obj\Debug\netcoreapp3.1\ManejoArchivo.AssemblyInfo.cs
+D:\Respaldo Disco Malo Nov2021\Otros\IP-TS 2021-2\IP2021-2\CSHARP\ManejoArchivo\obj\Debug\netcoreapp3.1\ManejoArchivo.csproj.CoreCompileInputs.cache
+D:\Respaldo Disco Malo Nov2021\Otros\IP-TS 2021-2\IP2021-2\CSHARP\ManejoArchivo\obj\Debug\netcoreapp3.1\ManejoArchivo.dll
+D:\Respaldo Disco Malo Nov2021\Otros\IP-TS 2021-2\IP2021-2\CSHARP\ManejoArchivo\obj\Debug\netcoreapp3.1\ManejoArchivo.pdb
+D:\Respaldo Disco Malo Nov2021\Otros\IP-TS 2021-2\IP2021-2\CSHARP\ManejoArchivo\obj\Debug\netcoreapp3.1\ManejoArchivo.genruntimeconfig.cache
