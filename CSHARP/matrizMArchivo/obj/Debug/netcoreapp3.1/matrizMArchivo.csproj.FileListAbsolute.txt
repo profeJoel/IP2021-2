@@ -1,0 +1,13 @@
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\matrizMArchivo\obj\Debug\netcoreapp3.1\matrizMArchivo.csprojAssemblyReference.cache
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\matrizMArchivo\obj\Debug\netcoreapp3.1\matrizMArchivo.AssemblyInfoInputs.cache
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\matrizMArchivo\obj\Debug\netcoreapp3.1\matrizMArchivo.AssemblyInfo.cs
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\matrizMArchivo\obj\Debug\netcoreapp3.1\matrizMArchivo.csproj.CoreCompileInputs.cache
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\matrizMArchivo\bin\Debug\netcoreapp3.1\matrizMArchivo.exe
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\matrizMArchivo\bin\Debug\netcoreapp3.1\matrizMArchivo.deps.json
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\matrizMArchivo\bin\Debug\netcoreapp3.1\matrizMArchivo.runtimeconfig.json
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\matrizMArchivo\bin\Debug\netcoreapp3.1\matrizMArchivo.runtimeconfig.dev.json
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\matrizMArchivo\bin\Debug\netcoreapp3.1\matrizMArchivo.dll
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\matrizMArchivo\bin\Debug\netcoreapp3.1\matrizMArchivo.pdb
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\matrizMArchivo\obj\Debug\netcoreapp3.1\matrizMArchivo.dll
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\matrizMArchivo\obj\Debug\netcoreapp3.1\matrizMArchivo.pdb
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\matrizMArchivo\obj\Debug\netcoreapp3.1\matrizMArchivo.genruntimeconfig.cache

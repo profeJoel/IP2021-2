@@ -1,0 +1,13 @@
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\listaAlumnos\bin\Debug\netcoreapp3.1\listaAlumnos.exe
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\listaAlumnos\bin\Debug\netcoreapp3.1\listaAlumnos.deps.json
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\listaAlumnos\bin\Debug\netcoreapp3.1\listaAlumnos.runtimeconfig.json
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\listaAlumnos\bin\Debug\netcoreapp3.1\listaAlumnos.runtimeconfig.dev.json
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\listaAlumnos\bin\Debug\netcoreapp3.1\listaAlumnos.dll
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\listaAlumnos\bin\Debug\netcoreapp3.1\listaAlumnos.pdb
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\listaAlumnos\obj\Debug\netcoreapp3.1\listaAlumnos.csprojAssemblyReference.cache
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\listaAlumnos\obj\Debug\netcoreapp3.1\listaAlumnos.AssemblyInfoInputs.cache
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\listaAlumnos\obj\Debug\netcoreapp3.1\listaAlumnos.AssemblyInfo.cs
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\listaAlumnos\obj\Debug\netcoreapp3.1\listaAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\listaAlumnos\obj\Debug\netcoreapp3.1\listaAlumnos.dll
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\listaAlumnos\obj\Debug\netcoreapp3.1\listaAlumnos.pdb
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\listaAlumnos\obj\Debug\netcoreapp3.1\listaAlumnos.genruntimeconfig.cache

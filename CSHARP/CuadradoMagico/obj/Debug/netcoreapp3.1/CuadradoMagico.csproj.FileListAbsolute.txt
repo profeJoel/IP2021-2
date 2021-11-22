@@ -1,0 +1,13 @@
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\CuadradoMagico\obj\Debug\netcoreapp3.1\CuadradoMagico.csprojAssemblyReference.cache
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\CuadradoMagico\obj\Debug\netcoreapp3.1\CuadradoMagico.AssemblyInfoInputs.cache
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\CuadradoMagico\obj\Debug\netcoreapp3.1\CuadradoMagico.AssemblyInfo.cs
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\CuadradoMagico\obj\Debug\netcoreapp3.1\CuadradoMagico.csproj.CoreCompileInputs.cache
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\CuadradoMagico\bin\Debug\netcoreapp3.1\CuadradoMagico.exe
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\CuadradoMagico\bin\Debug\netcoreapp3.1\CuadradoMagico.deps.json
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\CuadradoMagico\bin\Debug\netcoreapp3.1\CuadradoMagico.runtimeconfig.json
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\CuadradoMagico\bin\Debug\netcoreapp3.1\CuadradoMagico.runtimeconfig.dev.json
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\CuadradoMagico\bin\Debug\netcoreapp3.1\CuadradoMagico.dll
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\CuadradoMagico\bin\Debug\netcoreapp3.1\CuadradoMagico.pdb
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\CuadradoMagico\obj\Debug\netcoreapp3.1\CuadradoMagico.dll
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\CuadradoMagico\obj\Debug\netcoreapp3.1\CuadradoMagico.pdb
+C:\Users\joelm\Desktop\respaldo\IP-TS 2021-2\IP2021-2\CSHARP\CuadradoMagico\obj\Debug\netcoreapp3.1\CuadradoMagico.genruntimeconfig.cache
