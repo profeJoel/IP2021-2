@@ -1,1 +1,2 @@
 Jugadores: [Fernando] y [Emilio] > Resultado: EMPATE
+Jugadores: [Rigo] y [Joel] > Resultado: Gana Jugador: Rigo
